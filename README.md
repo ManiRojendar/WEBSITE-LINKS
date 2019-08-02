@@ -1,20 +1,29 @@
 # WEBSITE-LINKS
-https://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_navbars.cfm
-https://javascript.info/types#a-number
-https://getbootstrap.com/
-https://bootsnipp.com/
-https://www.jssor.com/
+https://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_navbars.cfm  <br>
+https://javascript.info/types#a-number  <br>
+https://getbootstrap.com/  <br>
+https://bootsnipp.com/  <br>
+https://www.jssor.com/  <br>
 <!--
 Jquery  -->
-http://jsfiddle.net/FranWahl/rFGWZ/
-http://jsfiddle.net/pankajsapkal02/vk41yfvn/5/
-https://jsfiddle.net/Garconis/d8g5Lgpy/
-https://jsfiddle.net/iwwenbo/aq4s1kfd/
-http://jsfiddle.net/giorgitbs/52aK9/1/
-http://jsfiddle.net/13ko7qg5/3/
-https://jsfiddle.net/mmushtaq/v65db2ez/
-https://jsfiddle.net/annoyingmouse/ay16vnp1/
-http://jsfiddle.net/ARTsinn/fSmEL/
-https://jsfiddle.net/ivan_sim/48dxxm6o/
-http://jsfiddle.net/sarwa/BAZCX/
-http://jsfiddle.net/fiodor/1cyek8nk/
+https://www.jqueryscript.net/tags.php?/table%20pagination/ <br>
+http://jsfiddle.net/FranWahl/rFGWZ/   <br>
+http://jsfiddle.net/pankajsapkal02/vk41yfvn/5/   <br>
+https://jsfiddle.net/Garconis/d8g5Lgpy/   <br>
+https://jsfiddle.net/iwwenbo/aq4s1kfd/  <br>  
+http://jsfiddle.net/giorgitbs/52aK9/1/   <br>
+http://jsfiddle.net/13ko7qg5/3/  <br>
+https://jsfiddle.net/mmushtaq/v65db2ez/  <br>
+https://jsfiddle.net/annoyingmouse/ay16vnp1/  <br>
+http://jsfiddle.net/ARTsinn/fSmEL/  <br>
+https://jsfiddle.net/ivan_sim/48dxxm6o/  <br>
+http://jsfiddle.net/sarwa/BAZCX/  <br>
+http://jsfiddle.net/fiodor/1cyek8nk/  <br>
+https://stackoverflow.com/questions/19605078/how-to-use-pagination-on-html-tables  <br>
+https://datatables.net/examples/basic_init/alt_pagination.html  <br>
+<!--bootstap pagination and table 
+-->>
+
+https://mdbootstrap.com/docs/jquery/tables/pagination/  <br>
+
+https://api.jquery.com/button-selector/  <br>
