@@ -29,3 +29,4 @@ https://mdbootstrap.com/docs/jquery/tables/pagination/  <br>
 https://api.jquery.com/button-selector/  <br>
 
 https://drive.google.com/drive/folders/14RH0Xn13cvsqLrTbTFLgEk2DePiEtbV1  <br>
+https://bootstrapious.com/p/bootstrap-sidebar  <br>
