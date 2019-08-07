@@ -30,3 +30,6 @@ https://api.jquery.com/button-selector/  <br>
 
 https://drive.google.com/drive/folders/14RH0Xn13cvsqLrTbTFLgEk2DePiEtbV1  <br>
 https://bootstrapious.com/p/bootstrap-sidebar  <br>
+https://adminlte.io/  <br>
+https://www.google.com/search?source=hp&ei=KP1KXe-ROZ7Ez7sPqciWyAg&q=quackit&oq=quacki&gs_l=psy-ab.3.0.0l2j0i10j0l4j0i10j0j0i10.3911.12042..14068...2.0..0.312.1346.0j7j1j1......0....1..gws-wiz.....0..0i131.SIXhQ43Dszo <br>
+https://www.quackit.com/  <br>
