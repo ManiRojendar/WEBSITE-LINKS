@@ -33,4 +33,13 @@ https://bootstrapious.com/p/bootstrap-sidebar  <br>
 https://adminlte.io/  <br>
 https://www.google.com/search?source=hp&ei=KP1KXe-ROZ7Ez7sPqciWyAg&q=quackit&oq=quacki&gs_l=psy-ab.3.0.0l2j0i10j0l4j0i10j0j0i10.3911.12042..14068...2.0..0.312.1346.0j7j1j1......0....1..gws-wiz.....0..0i131.SIXhQ43Dszo <br>
 https://www.quackit.com/  <br>notes hquery<br>
-https://www.tutorialsteacher.com/jquery/jquery-tutorials
+https://www.tutorialsteacher.com/jquery/jquery-tutorials <br>
+<br>
+<br>
+jqueryfiles uploads <br>
+http://hmkcode.com/java-servlet-jquery-file-upload/  <br>
+http://hmkcode.com/spring-mvc-jquery-file-upload-multiple-dragdrop-progress/ <br>
+http://hmkcode.com/spring-mvc-upload-file-ajax-jquery-formdata/ <br>
+http://hmkcode.com/spring-framework-tutorial/ <br>
+https://www.aspdotnet-suresh.com/2014/01/7-jquery-multiple-file-upload-plugin-examples.html <br>
+https://pitipata.blogspot.com/2017/01/using-jquery-file-upload-ui.html <br>
