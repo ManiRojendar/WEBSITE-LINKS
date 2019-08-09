@@ -43,3 +43,5 @@ http://hmkcode.com/spring-mvc-upload-file-ajax-jquery-formdata/ <br>
 http://hmkcode.com/spring-framework-tutorial/ <br>
 https://www.aspdotnet-suresh.com/2014/01/7-jquery-multiple-file-upload-plugin-examples.html <br>
 https://pitipata.blogspot.com/2017/01/using-jquery-file-upload-ui.html <br>
+<br>Angular v<br>
+https://drive.google.com/drive/folders/1jPtV6yd7Yg_0jOXzsD0BCe0xdrRvLJlW <br>
