@@ -45,3 +45,7 @@ https://www.aspdotnet-suresh.com/2014/01/7-jquery-multiple-file-upload-plugin-ex
 https://pitipata.blogspot.com/2017/01/using-jquery-file-upload-ui.html <br>
 <br>Angular v<br>
 https://drive.google.com/drive/folders/1jPtV6yd7Yg_0jOXzsD0BCe0xdrRvLJlW <br>
+https://malcoded.com/posts/angular-data-binding/ <br>
+https://codecraft.tv/courses/angular/quickstart/first-app/<br>
+https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example<br>
+https://itnext.io/clean-code-checklist-in-angular-?gi=eff601cab998
